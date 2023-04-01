@@ -1,0 +1,68 @@
+body {
+    background-color: #EDF2F4;
+}
+
+#mainNavbar {
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+#mainNavbar .navbar-brand {
+    color: #EF233C;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+#mainNavbar .nav-link {
+    color: #8D99AE;
+}
+
+#mainNavbar .nav-link:hover {
+    color: #EF233C;
+}
+
+#searchInput {
+    color: #2B2D42;
+}
+
+.navbar.scrolled {
+    background-color: #2B2D42;
+    transition: background-color 300ms ease-in-out;
+}
+
+#searchStr {
+    color: #D90429;
+}
+
+.showTitle {
+    color: #2b2d42;
+    font-family: sans-serif;
+}
+
+#dataBox p {
+    height:fit-content;
+    margin-bottom: 2rem;
+}
+
+#dataBox hr {
+    visibility: hidden;
+}
+
+@media (max-width: 769px){
+    #mainNavbar {
+        background-color: #2B2D42;
+        z-index: 1;
+    }
+
+    #nav-bar .nav-link:focus {
+        background-color: #bb0221;
+        font-weight: 400;
+        color: white;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+        background-color: #D90429;
+
+    }
+}
