@@ -79,11 +79,24 @@ trending.addEventListener("click", async function (e) {
     showDetails(res.data.results);          // function to show searched results (passing array of object's received from API)
 });
 
+// When Page Opens 1st time "Home" button event triggers
+// this is necessary to eliminate the problem of Empty page(no shows) when page opens.
 
-const hamburger = document.querySelector("#hamburger");
-const body = document.querySelector('#dataBox');
-body.addEventListener("click", function () {
-    if(hamburger.expanded == true){
-        hamburger.expanded = false;
-    }
+document.addEventListener("DOMContentLoaded", async function (e) {      // function runs when page opens 1st time
+    e.preventDefault();     // to prevent page reload
+    const searchText = document.querySelector('#searchStr');
+    searchText.textContent = "Home";         // to show trending
+    const res = await axios.get("https://api.consumet.org/anime/gogoanime/recent-episodes");     // request recent episodes from API
+    showDetails(res.data.results);          // function to show searched results (passing array of object's received from API)
 });
+
+
+// not working yet
+
+// const hamburger = document.querySelector("#hamburger");
+// const body = document.querySelector('#dataBox');
+// body.addEventListener("click", function () {
+//     if(hamburger.expanded == true){
+//         hamburger.expanded = false;
+//     }
+// });
