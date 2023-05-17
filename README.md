@@ -46,14 +46,14 @@
  <br>
  <ul>
  <li>HTML5 => to create a template that specifies the common pattern in which all the data will show and its position.</li>
- - BootStrap3 => to create a responsive(mobile friendly) and user friendly interface. <br>
- - CSS3 => to give some personal touches to the design, color and font. <br>
- - JavaScript => to create Async function that sends search query to API when form is submitted. <br>
- - Jquery => to change color effect when page is scrolled. <br>
- - Axios => to simplify the process of making GET requests to the GogoAnime API server. <br>
- - Gogoanime API => to send requests and receive the accurate data. <br>
- - Postman => to check and configure the code for making different types of requests from the server. <br>
- - VS Code => whole website is created on Visual Studio Code editor. <br>
+ <li>BootStrap3 => to create a responsive(mobile friendly) and user friendly interface.</li>
+ <li>CSS3 => to give some personal touches to the design, color and font.</li>
+ <li>JavaScript => to create Async function that sends search query to API when form is submitted.</li>
+ <li>Jquery => to change color effect when page is scrolled.</li>
+ <li>Axios => to simplify the process of making GET requests to the GogoAnime API server.</li>
+ <li>Gogoanime API => to send requests and receive the accurate data.</li>
+ <li>Postman => to check and configure the code for making different types of requests from the server.</li>
+ <li>VS Code => whole website is created on Visual Studio Code editor.</li>
   </ul>
     <br>
     <br>
