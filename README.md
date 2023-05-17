@@ -32,8 +32,8 @@
   
   - Homepage => displays all the anime with Recently Released episodes. <br>
   - Trending => shows Top Aring anime. <br>
-  - About => it will show the information about Creator and Web technology used to create this site. <br>
-  - Search => it allow users to quickly find all the episodes and seasons of an anime series they are looking for.<br>
+  - About    => it will show the information about Creator and Web technology used to create this site. <br>
+  - Search.  => it allow users to quickly find all the episodes and seasons of an anime series they are looking for.<br>
   
   The website was created using HTML5, CSS3, Bootstrap3, JavaScript, jQuery and the Gogoanime API. This website is designed to be a one-stop shop, where users can find information about their favorite anime and access streaming services.
 
@@ -45,15 +45,15 @@
 <h3 align="left"> Technologies Used </h3>
  <br>
  <ul>
- <li>HTML5 => to create a template that specifies the common pattern in which all the data will show and its position.</li>
- <li>BootStrap3 => to create a responsive(mobile friendly) and user friendly interface.</li>
- <li>CSS3 => to give some personal touches to the design, color and font.</li>
- <li>JavaScript => to create Async function that sends search query to API when form is submitted.</li>
- <li>Jquery => to change color effect when page is scrolled.</li>
- <li>Axios => to simplify the process of making GET requests to the GogoAnime API server.</li>
+ <li>HTML5         => to create a template that specifies the common pattern in which all the data will show and its position.</li>
+ <li>BootStrap3    => to create a responsive(mobile friendly) and user friendly interface.</li>
+ <li>CSS3          => to give some personal touches to the design, color and font.</li>
+ <li>JavaScript    => to create Async function that sends search query to API when form is submitted.</li>
+ <li>Jquery        => to change color effect when page is scrolled.</li>
+ <li>Axios         => to simplify the process of making GET requests to the GogoAnime API server.</li>
  <li>Gogoanime API => to send requests and receive the accurate data.</li>
- <li>Postman => to check and configure the code for making different types of requests from the server.</li>
- <li>VS Code => whole website is created on Visual Studio Code editor.</li>
+ <li>Postman       => to check and configure the code for making different types of requests from the server.</li>
+ <li>VS Code       => whole website is created on Visual Studio Code editor.</li>
   </ul>
     <br>
     <br>
