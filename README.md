@@ -44,8 +44,8 @@
   
 <h3 align="left"> Technologies Used </h3>
  <br>
- <p>
- - HTML5 => to create a template that specifies the common pattern in which all the data will show and its position. <br>
+ <ul>
+ <li>HTML5 => to create a template that specifies the common pattern in which all the data will show and its position.</li>
  - BootStrap3 => to create a responsive(mobile friendly) and user friendly interface. <br>
  - CSS3 => to give some personal touches to the design, color and font. <br>
  - JavaScript => to create Async function that sends search query to API when form is submitted. <br>
@@ -54,7 +54,7 @@
  - Gogoanime API => to send requests and receive the accurate data. <br>
  - Postman => to check and configure the code for making different types of requests from the server. <br>
  - VS Code => whole website is created on Visual Studio Code editor. <br>
-  </p>
+  </ul>
     <br>
     <br>
 <h3 align="left">Connect with me:</h3>
