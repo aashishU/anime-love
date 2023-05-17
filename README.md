@@ -27,9 +27,9 @@
   <img src="https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" />
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
   <img src="https://img.shields.io/badge/jquery-%230769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery" />
+  <img src="https://img.shields.io/badge/axios-blue?style=for-the-badge&logo=axios&logoColor=white" alt="axios" />
   <img src="https://img.shields.io/badge/GogoAnime-API-green?labelColor=Blue&style=for-the-badge" alt="GogoAnime" />
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashishu&show_icons=true&locale=en&layout=compact" alt="aashishu" /></p>
 
-This website gets its data from GogoAnime API
