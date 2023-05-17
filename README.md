@@ -7,15 +7,15 @@
 <br>
 <br>
 <br>
-- 🔭 I’m currently working on [Anime Love](https://aashishu.github.io/anime-love/)
+- 🔭 I’m currently working on : [Anime Love](https://aashishu.github.io/anime-love/)
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning : **Full Stack Development**
 
-- 👯 I’m looking to collaborate on **eCommerce Website**
+- 👯 I’m looking to collaborate on : **eCommerce Website**
 
-- 👨‍💻 All of my projects are available at [https://aashishu.github.io/portfolio/](https://aashishu.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at : [https://aashishu.github.io/portfolio/](https://aashishu.github.io/portfolio/)
 
-- 📫 How to reach me **ashish.uniyal599@gmail.com**
+- 📫 How to reach me : **ashish.uniyal599@gmail.com**
 
 - ⚡ Fun fact : **I am a Geek who loves to go on long Motorcycle trips.**
 
