@@ -27,7 +27,7 @@
 <br>
 
 <h3 align="left"> Description </h3>
-<p>Anime Love is a website created to bring together all the fans of anime and manga from all over the world.<br>
+<p>Anime Love is a website created to bring together all the fans of anime from all over the world.<br>
   The website is very easy to use and navigate, featuring an intuitive interface that makes it easy to find what you’re looking for.<br>
   
   - Homepage => displays all the anime with Recently Released episodes. <br>
