@@ -39,11 +39,12 @@
 
 
   Overall, Anime Love is a great website for anyone who is interested in anime. It provides a great source of information like image, name, episodes and links to the streaming services. Whether you’re a long-time fan or just starting out, Anime Love is the perfect website to visit.</p>
+  <br>
+  <br>
   
 <h3 align="left"> Technologies Used </h3>
  <br>
- <br>
-<p>- HTML5 - to create a template that specifies the common pattern in which all the data will show and its position. <br>
+<p> - HTML5 - to create a template that specifies the common pattern in which all the data will show and its position. <br>
    - BootStrap3 - to create a responsive(mobile friendly) and user friendly interface. <br>
    - CSS3 - to give some personal touches to the design, color and font. <br>
    - JavaScript - to create Async function that sends search query to API when form is submitted. <br>
