@@ -30,10 +30,10 @@
 <p>Anime Love is a website created to bring together all the fans of anime and manga from all over the world.<br>
   The website is very easy to use and navigate, featuring an intuitive interface that makes it easy to find what you’re looking for.<br>
   
-  Homepage => displays all the anime with Recently Released episodes. <br>
-  Trending => shows Top Aring anime. <br>
-  About => it will show the information about Creator and Web technology used to create this site. <br>
-  Search => it allow users to quickly find all the episodes and seasons of an anime series they are looking for.<br>
+  - Homepage => displays all the anime with Recently Released episodes. <br>
+  - Trending => shows Top Aring anime. <br>
+  - About => it will show the information about Creator and Web technology used to create this site. <br>
+  - Search => it allow users to quickly find all the episodes and seasons of an anime series they are looking for.<br>
   
   The website was created using HTML5, CSS3, Bootstrap3, JavaScript, jQuery and the Gogoanime API. This website is designed to be a one-stop shop, where users can find information about their favorite anime and access streaming services.
 
@@ -43,15 +43,15 @@
 <h3 align="left"> Technologies Used </h3>
  <br>
  <br>
-<p>HTML5 - to create a template that specifies the common pattern in which all the data will show and its position. <br>
-   BootStrap3 - to create a responsive(mobile friendly) and user friendly interface. <br>
-   CSS3 - to give some personal touches to the design, color and font. <br>
-   JavaScript - to create Async function that sends search query to API when form is submitted. <br>
-   Jquery - to change color effect when page is scrolled. <br>
-   Axios - to simplify the process of making GET requests to the GogoAnime API server. <br>
-   Gogoanime API - to send requests and receive the accurate data. <br>
-   Postman - to check and configure the code for making different types of requests from the server. <br>
-   VS Code - whole website is created on Visual Studio Code editor. <br></p>
+<p>- HTML5 - to create a template that specifies the common pattern in which all the data will show and its position. <br>
+   - BootStrap3 - to create a responsive(mobile friendly) and user friendly interface. <br>
+   - CSS3 - to give some personal touches to the design, color and font. <br>
+   - JavaScript - to create Async function that sends search query to API when form is submitted. <br>
+   - Jquery - to change color effect when page is scrolled. <br>
+   - Axios - to simplify the process of making GET requests to the GogoAnime API server. <br>
+   - Gogoanime API - to send requests and receive the accurate data. <br>
+   - Postman - to check and configure the code for making different types of requests from the server. <br>
+   - VS Code - whole website is created on Visual Studio Code editor. <br></p>
     <br>
     <br>
 <h3 align="left">Connect with me:</h3>
