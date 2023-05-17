@@ -13,8 +13,7 @@
 
 - 📫 How to reach me **ashish.uniyal599@gmail.com**
 
-- ⚡ Fun fact **Once I was falsely accused by my neighbor for breaking her plant pot, when I was young. 
-                I felt like a detective, investigated the crime scene and found the culprit.**
+- ⚡ Fun fact  **I am a Geek who loves to go on long Motorcycle trips.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,13 +21,13 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p>
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-  ![GogoAnime](https://img.shields.io/badge/GogoAnime-API-green?labelColor=Blue&style=for-the-badge)
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+  <img src="https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" />
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+  <img src="https://img.shields.io/badge/jquery-%230769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery" />
+  <img src="https://img.shields.io/badge/GogoAnime-API-green?labelColor=Blue&style=for-the-badge" alt="GogoAnime" />
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashishu&show_icons=true&locale=en&layout=compact" alt="aashishu" /></p>
