@@ -30,9 +30,9 @@
 <p>Anime Love is a website created to bring together all the fans of anime and manga from all over the world.<br>
   The website is very easy to use and navigate, featuring an intuitive interface that makes it easy to find what you’re looking for.<br>
   
-  Homepage => displays all the anime with Recently Released episodes.
-  Trending => shows Top Aring anime.
-  About => it will show the information about Creator and Web technology used to create this site.
+  Homepage => displays all the anime with Recently Released episodes. <br>
+  Trending => shows Top Aring anime. <br>
+  About => it will show the information about Creator and Web technology used to create this site. <br>
   Search => it allow users to quickly find all the episodes and seasons of an anime series they are looking for.<br>
   
   The website was created using HTML5, CSS3, Bootstrap3, JavaScript, jQuery and the Gogoanime API. This website is designed to be a one-stop shop, where users can find information about their favorite anime and access streaming services.
