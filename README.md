@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ashish</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<br>
-<br>
-<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashishu&label=Profile%20views&color=0e75b6&style=flat" alt="aashishu" /> </p>
 
-- 🔭 I’m currently working on [Anime Love Website](https://aashishu.github.io/project-anime/)
+<br>
+<br>
+<br>
+- 🔭 I’m currently working on [Anime Love](https://aashishu.github.io/anime-love/)
 
 - 🌱 I’m currently learning **Full Stack Development**
 
@@ -22,7 +23,7 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/aashishu?style=social">
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/aashishu?style=social"> <br>
   <a href="https://www.linkedin.com/in/ashishuniyal599/"><img src="https://img.shields.io/badge/linkedin-profile-green?style=social&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/ashishuniyal599/" alt="linkedin" /></a>
 </p>
 
