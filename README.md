@@ -30,6 +30,3 @@
   <img src="https://img.shields.io/badge/axios-blue?style=for-the-badge&logo=axios&logoColor=white" alt="axios" />
   <img src="https://img.shields.io/badge/GogoAnime-API-green?labelColor=Blue&style=for-the-badge" alt="GogoAnime" />
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashishu&show_icons=true&locale=en&layout=compact" alt="aashishu" /></p>
-
