@@ -17,7 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ashishuniyal599" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashishuniyal599" height="30" width="40" /></a>
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/aashishu?style=social">
+  <a href="https://www.linkedin.com/in/ashishuniyal599/"><img src="https://img.shields.io/badge/linkedin-profile-green?style=social&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/ashishuniyal599/" alt="linkedin" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,5 +29,6 @@
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
   <img src="https://img.shields.io/badge/jquery-%230769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery" />
   <img src="https://img.shields.io/badge/axios-blue?style=for-the-badge&logo=axios&logoColor=white" alt="axios" />
+  <img src="https://img.shields.io/badge/vs%20code-blue?style=for-the-badge&logo=visual studio code&logoColor=white" alt="vs code" />
   <img src="https://img.shields.io/badge/GogoAnime-API-green?labelColor=Blue&style=for-the-badge" alt="GogoAnime" />
 </p>
