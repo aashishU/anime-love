@@ -5,6 +5,7 @@
 <br>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashishu&label=Profile%20views&color=0e75b6&style=flat" alt="aashishu" /> </p>
+<br>
 
 
 - 🔭 I’m currently working on : [Anime Love](https://aashishu.github.io/anime-love/)
