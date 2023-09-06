@@ -18,7 +18,7 @@
 
 - 📫 How to reach me : **ashish.uniyal599@gmail.com**
 
-- ⚡ Fun fact : **I am a Geek who loves to go on long Motorcycle trips.**
+- ⚡ Fun fact : **I am a Geek who loves to go on thrilling Motorcycle sunday rides.**
 
 <br>
 <br>
